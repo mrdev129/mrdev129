@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrdev129&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrdev129&show_icons=true&theme=dracula&cache_seconds=1800" />
 </p>
 
 <p align="center">
